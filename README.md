@@ -4,13 +4,13 @@ A data analytics project on Google Play Store data, analyzing app installs, rati
 ## Dashboard Screenshot
 Task-1 and Task-3![Screenshot 2025-05-04 234233](https://github.com/user-attachments/assets/2443a669-f70b-40db-a4e5-35c39233400f)
 
-![Task-2](![Screenshot 2025-05-28 194725](https://github.com/user-attachments/assets/f32be23a-1115-4e18-9739-85b5a22e419f))
+Task-2![Screenshot 2025-05-28 194725](https://github.com/user-attachments/assets/f32be23a-1115-4e18-9739-85b5a22e419f)
 
-![Task-4 and Task-5](![Screenshot 2025-05-04 234251](https://github.com/user-attachments/assets/94f93475-9eef-4b4a-9d38-d5acc39a05dd))
+Task-4 and Task-5![Screenshot 2025-05-04 234251](https://github.com/user-attachments/assets/94f93475-9eef-4b4a-9d38-d5acc39a05dd)
 
-![Task-6 and Task-7](![Screenshot 2025-05-04 234345](https://github.com/user-attachments/assets/4904893a-67fd-4935-9a6b-66a4e0652ff6))
+Task-6 and Task-7![Screenshot 2025-05-04 234345](https://github.com/user-attachments/assets/4904893a-67fd-4935-9a6b-66a4e0652ff6)
 '
-![Task-8 and Task-9](![Screenshot 2025-05-04 234412](https://github.com/user-attachments/assets/7098d014-6a06-4666-837c-a062b313a056))
+Task-8 and Task-9![Screenshot 2025-05-04 234412](https://github.com/user-attachments/assets/7098d014-6a06-4666-837c-a062b313a056)
 
 
 Tasks Discriptions-
