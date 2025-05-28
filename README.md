@@ -2,7 +2,7 @@
 A data analytics project on Google Play Store data, analyzing app installs, ratings, and trends using Python. Internship project at NullClass Edtech Pvt Ltd.
 
 ## Dashboard Screenshot
-![Task-1 and Task-3](![Screenshot 2025-05-04 234233](https://github.com/user-attachments/assets/2443a669-f70b-40db-a4e5-35c39233400f))
+Task-1 and Task-3![Screenshot 2025-05-04 234233](https://github.com/user-attachments/assets/2443a669-f70b-40db-a4e5-35c39233400f)
 
 ![Task-2](![Screenshot 2025-05-28 194725](https://github.com/user-attachments/assets/f32be23a-1115-4e18-9739-85b5a22e419f))
 
