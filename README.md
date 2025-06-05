@@ -33,4 +33,6 @@ Tasks Discriptions-
 
 9. Create a violin plot to visualize the distribution of ratings for each app category, but only include categories with more than 50 apps and app name should contain letter “C” and exclude apps with fewer than 10 reviews and rating should be less 4.0. this graph should work only between 4 PM IST to 6 PM IST apart from that time we should not show this graph in dashboard itself.
 
-
+## Training Dashboard Screenshot
+![Screenshot 2025-06-05 173205](https://github.com/user-attachments/assets/672456d2-4800-4571-bde6-fa4c4abffdba)
+![Screenshot 2025-06-05 173231](https://github.com/user-attachments/assets/a9d7b0ca-04f5-4acc-826c-a879bf027329)
